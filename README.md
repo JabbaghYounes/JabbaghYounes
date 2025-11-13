@@ -1,4 +1,4 @@
-## HOWDY THERE PARTNER !
+## HOWDY!
 
 <!--
 **JabbaghYounes/JabbaghYounes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
