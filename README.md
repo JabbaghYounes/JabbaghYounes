@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
- 🔭 I’m currently working on [AutonoBird]([url](https://github.com/JabbaghYounes/AutonoBird.git)), a AI-driven autonomous drone designed to demonstrate advanced navigation, perception, and mission execution capabilities using onboard neural networks. 
- 🌱 I’m currently learning CAD design and 3D printing
- 👯 I’m looking to contribute to open source projects
+- 🔭 I’m currently working on [AutonoBird]([url](https://github.com/JabbaghYounes/AutonoBird.git)), a AI-driven autonomous drone designed to demonstrate advanced navigation, perception, and mission execution capabilities using onboard neural networks. 
+- 🌱 I’m currently learning CAD design and 3D printing
+- 👯 I’m looking to contribute to open source projects
 
 <!--
 - 🤔 I’m looking for help with ...
