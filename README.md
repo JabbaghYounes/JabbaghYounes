@@ -1,6 +1,6 @@
 ## Hey!
 
-I build systems that sit close to the hardware and have to be right: edge AI, robotics and the infrastructure around them.
+Leaning towards low level programming these days: edge AI, robotics and the infrastructure around them.
 
 ---
 
@@ -13,9 +13,9 @@ I build systems that sit close to the hardware and have to be right: edge AI, ro
 
 ### Tools
 
-Python · Rust · C++ · Go · Dart · TypeScript · C  
+C · Rust · C++ · Go · Dart · TypeScript · Python  
 PyTorch · ONNX · vLLM · Ray · OpenCV · YOLO  
-Docker · FastAPI · Flutter · Next.js · SvelteKit · PostgreSQL  
-Raspberry Pi · Hailo · ArduPilot · Arduino · Modbus
+Docker · FastAPI · Flutter · Next.js · React.js · PostgreSQL  
+Raspberry Pi · Hailo · ArduPilot
 
 ---
